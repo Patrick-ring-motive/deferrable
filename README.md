@@ -1,2 +1,0 @@
-# deferrable
-Go deferrable
